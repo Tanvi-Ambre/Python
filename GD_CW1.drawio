@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T17:36:15.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OS-I3keZSsUPo9WgFP-A" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T17:36:39.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fDNyHQUZBX10AVoWgU0N" version="23.1.5" type="github">
   <diagram name="Page-1" id="q2zQ57r0S87OHBuqfP04">
     <mxGraphModel dx="1613" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="FWS2L0Vgk6QhZWGwQe0K-8" value="View Tournament List" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="300" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FWS2L0Vgk6QhZWGwQe0K-9" value="Manage Tournament" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="820" width="120" height="80" as="geometry" />
+        <mxCell id="FWS2L0Vgk6QhZWGwQe0K-9" value="Manage Tournaments" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="820" width="131" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FWS2L0Vgk6QhZWGwQe0K-10" value="Manage Games" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="930" width="120" height="80" as="geometry" />
