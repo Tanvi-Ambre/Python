@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T00:55:21.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W07qbNgZuFiq3YKm1zu0" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T00:57:09.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="v8Jkp7nRKxgTHmyWeVUT" version="23.1.5" type="github">
   <diagram name="Page-1" id="q2zQ57r0S87OHBuqfP04">
-    <mxGraphModel dx="3338" dy="2338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3755" dy="2493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
             <mxPoint x="358" y="838.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCyL4luhshKcZ0BJStXx-37" value="Join Premium Tournament&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="pCyL4luhshKcZ0BJStXx-37" value="Join Premium Tournament&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pCyL4luhshKcZ0BJStXx-39" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pCyL4luhshKcZ0BJStXx-37" target="FWS2L0Vgk6QhZWGwQe0K-44" edge="1">
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCyL4luhshKcZ0BJStXx-42" value="Rating and Feedback" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="540" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EdArRKg6t92E45KQ0ooG-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;dashed=1;html=1;endFill=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -220,9 +220,9 @@
             <mxPoint x="797" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EdArRKg6t92E45KQ0ooG-33" value="&lt;div&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;" style="endArrow=open;dashed=1;html=1;endFill=0;rounded=0;exitX=-0.019;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pCyL4luhshKcZ0BJStXx-42">
+        <mxCell id="EdArRKg6t92E45KQ0ooG-33" value="&lt;div&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;" style="endArrow=open;dashed=1;html=1;endFill=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FWS2L0Vgk6QhZWGwQe0K-44" target="pCyL4luhshKcZ0BJStXx-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478" y="467" as="sourcePoint" />
+            <mxPoint x="480" y="477" as="sourcePoint" />
             <mxPoint x="380" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
